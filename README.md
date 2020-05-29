@@ -6,7 +6,7 @@ Nurturing my curiosity through Quarantine 2020 by learning the foundations of so
 
 ## Daily reading assignments
 
-* Day 1 - [future link here]()
+* [Class 1 notes](class-01.md)
 * Day 2 - [future link here]()
 * Day 3 - [future link here]()
 * Day 4 - [future link here]()
