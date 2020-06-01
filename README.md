@@ -2,7 +2,7 @@
 
 **June 1, 2020**
 
-Nurturing my curiosity through Quarantine 2020 by learning the foundations of software development. I welcome any and all feedback, questions, and inspirational quotes. And also, bad jokes. Follow along on my learning journey with may daily reading notes.
+Nurturing my curiosity through Quarantine 2020 by learning the foundations of software development. I welcome any and all feedback, questions, and inspirational quotes. And also, bad jokes. Follow along on my learning journey with my daily reading notes.
 
 ## Daily reading assignments
 
@@ -21,8 +21,6 @@ Nurturing my curiosity through Quarantine 2020 by learning the foundations of so
 * Day 13 - [future link here]()
 * Day 14 - [future link here]()
 * Day 15 - [future link here]()
-
-
 
 > "A user interface is like a joke. If you have to explain it, it's not that good."
 
