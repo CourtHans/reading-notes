@@ -1,5 +1,4 @@
-[Return to Table of Contents](README.md
-)
+[Return to Table of Contents](README.md)
 
 # Class 1
 
@@ -62,7 +61,7 @@ Designing navigation...Good navigation tends to follow these principles:
 - Introduction
 - JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
->As temptimg as it can be to start coding straight away, it pays to spend time designing your script before you start writing it.
+>As tempting as it can be to start coding straight away, it pays to spend time designing your script before you start writing it.
 
 A script is a series of instructions that the computer can follow in order to achieve a goal. To approach writing a script, break down your goal into a series of tasks, then work out each step needed to complete that task.
 
