@@ -79,3 +79,4 @@ Objects can have properties, methods, and events.
 
 It is bets to keep JavaScript code in its own file.
 
+[Next - Class 2 reading notes](class-02.md)
