@@ -1,17 +1,16 @@
 [Return to Table of Contents](README.md)
 
-# Class 1
-
+# Class 1 reading notes
 
 ### HTML
 
 **HTML & CSS** *Jon Duckett*
 
 - Introduction (pp.2-11)
-- HTML Chapter 1: “Structure” (pp.12-39)
-- HTML Chapter 8: “Extra Markup” (p.176-199)
-- HTML Chapter 17: “HTML5 Layout” (pp.428-451)
-- HTML Chapter 18: “Process & Design” (pp.452-475)
+- Chapter 1: “Structure” (pp.12-39)
+- Chapter 8: “Extra Markup” (p.176-199)
+- Chapter 17: “HTML5 Layout” (pp.428-451)
+- Chapter 18: “Process & Design” (pp.452-475)
 
 **Tags** act like containers, telling you something about the information that lies between their opening and closing tags. `<p>` is an example of an opening tag, and the corresponding closing tag looks like this - `</p>`.
 

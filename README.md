@@ -7,7 +7,7 @@ Nurturing my curiosity through Quarantine 2020 by learning the foundations of so
 ## Daily reading assignments
 
 * [Class 1 notes](class-01.md)
-* Day 2 - [future link here]()
+* [Class 2 notes](class-02.md)
 * Day 3 - [future link here]()
 * Day 4 - [future link here]()
 * Day 5 - [future link here]()
@@ -31,3 +31,5 @@ Nurturing my curiosity through Quarantine 2020 by learning the foundations of so
 [Courtney's GitHub profile](https://github.com/CourtHans)
 
 [Courtney's LinkedIn profile](https://www.linkedin.com/in/courtney-hans/)
+
+
