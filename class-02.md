@@ -1,5 +1,3 @@
-[Return to Table of Contents](README.md)
-
 # Class 2 reading notes
 
 **HTML & CSS** *Jon Duckett*
@@ -105,4 +103,7 @@ Explain ***WHAT*** and ***WHY*** (this is not the place for HOW) so future you (
 6. Wrap the body at 72 characters
 7. Use the body to explain *what* and *why* vs. *how*
 
-[Previous - Class 1 reading notes](class-01.md)
+[Previous - Class 1 reading notes](class-01.md)  
+[Next - Class 3 reading notes](class-03.md)
+
+[Return to Table of Contents](README.md)

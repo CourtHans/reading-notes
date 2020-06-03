@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-**June 1, 2020**
+**June 2020**
 
 Nurturing my curiosity through Quarantine 2020 by learning the foundations of software development. I welcome any and all feedback, questions, and inspirational quotes. And also, bad jokes. Follow along on my learning journey with my daily reading notes.
 
@@ -8,7 +8,7 @@ Nurturing my curiosity through Quarantine 2020 by learning the foundations of so
 
 * [Class 1 notes](class-01.md)
 * [Class 2 notes](class-02.md)
-* Day 3 - [future link here]()
+* [Class 3 notes](class-03.md)
 * Day 4 - [future link here]()
 * Day 5 - [future link here]()
 * Day 6 - [future link here]()
