@@ -81,6 +81,5 @@ In paired programming, you will have a *Driver* and a *Navigator*.
 
 <hr />
 [Previous - Class 2 reading notes](class-02.md)  
-[Next - Class 4 reading notes](class-04.md)
 
 [Return to Table of Contents](README.md)
