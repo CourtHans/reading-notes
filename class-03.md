@@ -91,6 +91,6 @@ A **for loop** uses a counter as a condition and is made up of an initialization
 The `+=` operator is used to add new content to the msg variable.
 
 [Previous - Class 2 reading notes](class-02.md)  
-[Next - Class 4 reading notes]()
+[Next - Class 4 reading notes](class-04.md)
 
 [Return to Table of Contents](README.md)
