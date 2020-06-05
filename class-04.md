@@ -19,7 +19,7 @@ Each HTML element has it's own "box."
 ## Positioning schemes
 
 * **normal flow**   (default behavior)  
-* **relatvie positioning**  - moves an element from its 'normal' position (e.g. adjust with MBP)  
+* **relative positioning**  - moves an element from its 'normal' position (e.g. adjust with MBP)  
 * **absolute positioning**  - positions element relation to its containing element. These will move as users scroll up and down the page.
 * **fixed positioning** - form of absolute that positions the element in relation to browser window. Do not affect other elements, do not move when user scross up or down.
 * **floating elements** - take element out of normal flow and position it to far left or right of container. Other elements will flow around it.
@@ -29,9 +29,6 @@ Each HTML element has it's own "box."
 ***Because screen sizes and display resolutiosn vary so much, web designers often try to create pages of around 960-1000 pixels wide.***
 
 Many designers try to let the user know what the site is about within the top 570-600 pixels, but don't try to cram too much into this top area.
-
-
-
 
 <hr />
 
@@ -80,6 +77,8 @@ Article: [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-rea
 In paired programming, you will have a *Driver* and a *Navigator*.
 
 <hr />
-[Previous - Class 2 reading notes](class-02.md)  
+
+[Previous - Class 3 reading notes](class-03.md) 
+[Next - Class 5 reading notes](class-05.md) 
 
 [Return to Table of Contents](README.md)
