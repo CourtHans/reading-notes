@@ -96,6 +96,7 @@ When pseudo-classes are used, they should appear in this order:
 
 <hr />
 
-[Previous - Class 4 reading notes](class-03.md) 
+[Previous - Class 4 reading notes](class-04.md)  
+[Next - Class 6 reading notes](class-06.md) 
 
 [Return to Table of Contents](README.md)
