@@ -6,7 +6,7 @@
 
 A ***table*** represents information in a grid format. Examples of tables include financial reports, TV schedules, adn sports results. 
 
-The `<table>` element is used to add tables to a web page. A tabel is drawn out row by row, and in each row, ther are data cells (or header cells, if appropriate).  You can use `rowspan` and `colspan`, and for long tables you can split the table into a `<thead>`, `<tbody>`, and `<tfoot>`.
+The `<table>` element is used to add tables to a web page. A tabl3 is drawn out row by row, and in each row, there are data cells (or header cells, if appropriate).  You can use `rowspan` and `colspan`, and for long tables you can split the table into a `<thead>`, `<tbody>`, and `<tfoot>`.
 
 <hr />
 
