@@ -115,5 +115,6 @@ Sometimes, to fully understand the problem domain, you need to parse it out to f
 <hr />
 
 [Previous - Class 5 reading notes](class-05.md) 
+[Next - Class 7 reading notes](class-07.md) 
 
 [Return to Table of Contents](README.md)
