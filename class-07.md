@@ -78,6 +78,8 @@ Think of the **prototype** as an object's stunt double
 **Reminder**: shared code means a running program consumes less memory which is important for devices like smart phones and tablets.
 
 <hr />
-[Previous - Class 6 reading notes](class-05.md) 
+
+[Previous - Class 6 reading notes](class-06.md) 
+[Next - Class 8 reading notes](class-08.md) 
 
 [Return to Table of Contents](README.md)
