@@ -59,5 +59,6 @@ Events are a browser's way of indicating when something has happened, upon which
 <hr />
 
 [Previous - Class 8 reading notes](class-08.md) 
+[Next - Class 10 reading notes](class-10.md) 
 
 [Return to Table of Contents](README.md)
