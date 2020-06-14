@@ -16,7 +16,7 @@ Nurturing my curiosity through Quarantine 2020 by learning the foundations of so
 * [Class 8 notes](class-08.md)
 * [Class 9 notes](class-09.md)
 * [Class 10 notes](class-10.md)
-* Day 11 - [future link here]()
+* [Class 11 notes](class-11.md)
 * Day 12 - [future link here]()
 * Day 13 - [future link here]()
 * Day 14 - [future link here]()

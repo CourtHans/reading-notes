@@ -47,5 +47,6 @@ Always remove your breakpoints/consolelogs/debuggers from live code!
 <hr />
 
 [Previous - Class 9 reading notes](class-09.md) 
+[Next - Class 11 reading notes](class-11.md) 
 
 [Return to Table of Contents](README.md)
