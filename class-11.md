@@ -28,6 +28,7 @@ Pulling video on to your site seems to be a pretty complicated process. There ar
 
 <hr />
 
-[Previous - Class 10 reading notes](class-10.md) 
+[Previous - Class 10 reading notes](class-10.md)  
+[Next - Class 12 reading notes](class-12.md) 
 
 [Return to Table of Contents](README.md)
