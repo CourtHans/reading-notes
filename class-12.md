@@ -42,6 +42,7 @@ Strokes a given text at the given (x,y) position. Optionally with a maximum widt
 
 <hr />
 
-[Previous - Class 11 reading notes](class-11.md) 
+[Previous - Class 11 reading notes](class-11.md)  
+[Next - Class 13 reading notes](class-13.md) 
 
 [Return to Table of Contents](README.md)
