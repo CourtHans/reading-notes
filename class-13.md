@@ -15,8 +15,6 @@ HTML5 storage relies on key/value pairs.
 
 ***Reminder*** that *data is stored as strings* and you'll have to parse it out if you need a different datatype.
 
-
-
 <hr />
 
 [Previous - Class 12 reading notes](class-12.md)  
