@@ -19,8 +19,8 @@ Nurturing my curiosity through Quarantine 2020 by learning the foundations of so
 * [Class 11 notes](class-11.md)
 * [Class 12 notes](class-12.md)
 * [Class 13 notes](class-13.md)
-* Day 14 - [future link here]()
-* Day 15 - [future link here]()
+* [Class 14a notes](class-14.md)
+* [Class 14b notes](class-14.md)
 
 > "A user interface is like a joke. If you have to explain it, it's not that good."
 

@@ -17,6 +17,7 @@ HTML5 storage relies on key/value pairs.
 
 <hr />
 
-[Previous - Class 12 reading notes](class-12.md)  
+[Previous - Class 12 reading notes](class-12.md)    
+[Next - Class 14 reading notes](class-14.md) 
 
 [Return to Table of Contents](README.md)
