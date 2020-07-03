@@ -1,10 +1,15 @@
-# Code 201 Reading Notes
+# Reading Notes
 
 **June 2020**
 
 Nurturing my curiosity through Quarantine 2020 by learning the foundations of software development. I welcome any and all feedback, questions, and inspirational quotes. And also, bad jokes. Follow along on my learning journey with my daily reading notes.
 
-## Daily reading assignments
+## 301 Daily reading assignments
+
+* [01 Responsive Web Design](read-01.md)
+
+
+## 201 Daily reading assignments
 
 * [Class 1 notes](class-01.md)
 * [Class 2 notes](class-02.md)

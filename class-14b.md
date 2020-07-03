@@ -19,5 +19,6 @@ Successful teams don't usually just 'happen.' Each group member (and this goes d
 <hr />
 
 [Previous - Class 14a reading notes](class-14a.md)  
+[Next - 01 Responsive Web Design](read-01.md) 
 
 [Return to Table of Contents](README.md)
