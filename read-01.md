@@ -9,6 +9,7 @@ Responsive web design is the practice of building a website suitable to work on 
 [CSS Floats Explained By Riding An Escalator](https://www.freecodecamp.org/news/css-floats-explained-by-riding-an-escalator-57fa55232333/)
 [SMACSS Official Documentation](http://smacss.com/)
 
+Responsive design to make your sites device agnostic...
 <hr />
 
 [Previous - Class 14b reading notes](class-14b.md)  
